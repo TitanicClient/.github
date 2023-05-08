@@ -9,6 +9,10 @@ Titanic Client is a feature packed and well designed quality of life client for 
 # Contributors
 The amazing people who made this project possible.
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Noxiuam&data=stars,repositories&theme=mountain">
+<a href="https://github.com/Noxiuam" target="_blank">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Noxiuam&data=stars,repositories&theme=mountain">
+</a>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=TheKodeToad&data=stars,repositories&theme=mountain">
+<a href="https://github.com/TheKodeToad" target="_blank">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=TheKodeToad&data=stars,repositories&theme=mountain">
+</a>
