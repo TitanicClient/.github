@@ -5,3 +5,5 @@
 # Bringing QOL to Legacy Minecraft.
 
 Titanic Client is a feature packed and well designed quality of life client for Minecraft Alpha 1.1.2_01, 1.2.6 and Beta 1.1_02, bringing the best features to all users.
+
+![image](https://raw.githubusercontent.com/Noxiuam/Titanic/open-beta/img/mods.png)
